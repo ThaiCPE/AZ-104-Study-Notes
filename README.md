@@ -15,7 +15,7 @@ Additional Microsoft resources:
 - [Configure & Manage Virtual Networking Video](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-configure-and-manage-virtual-networking-4-of-5)
 - [Monitor & Backup Azure Resources Video](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-monitor-and-maintain-azure-resources-5-of-5)
 
-## Skills measured as of July 28, 2023
+## Skills measured as of November 8, 2024
 
 ### Audience profile
 
