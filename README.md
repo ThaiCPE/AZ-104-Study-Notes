@@ -15,6 +15,7 @@ Additional Microsoft resources:
 - [Configure & Manage Virtual Networking Video](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-configure-and-manage-virtual-networking-4-of-5)
 - [Monitor & Backup Azure Resources Video](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-monitor-and-maintain-azure-resources-5-of-5)
 - https://learn.microsoft.com/en-us/azure/architecture/aws-professional
+- https://www.cloud13.ch/az-104-study-guide
 
 ## Skills Measured Update 8 พ.ย. 2567
 
